@@ -1,6 +1,5 @@
 package com.ssafy.camping.favorites.controller;
 
-import com.ssafy.camping.board.model.mapper.BoardMapper;
 import com.ssafy.camping.favorites.dto.Favorites;
 import com.ssafy.camping.favorites.model.service.FavoritesService;
 import org.springframework.beans.factory.annotation.Autowired;
